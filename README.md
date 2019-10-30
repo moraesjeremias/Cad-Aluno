@@ -1,2 +1,2 @@
 # Cad-Aluno
-Sistema de Cadastro de Alunos Utilizando Java Server Pages
+Simple Java Server Page Student Grades Sheet System
